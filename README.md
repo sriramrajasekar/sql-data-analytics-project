@@ -1,4 +1,4 @@
-# sql-data-analytics-project
+# SQL-Data-Analytics-Project
 Optimizing Sales &amp; Customer Behavior in E-Commerce ::
 This project is designed as abeginner-friendly SQL-based Data Analytics project that analyzes e-commerce data to extract meaningful business insights. 
 It demonstrates how SQL can be used to answer real-world questions related to sales, customer behavior, and product performance.
